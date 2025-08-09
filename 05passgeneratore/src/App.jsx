@@ -97,7 +97,7 @@ function App() {
       }}
       
       />
-      <label htmlFor="character" className='text-black font-bold'>Character</label>
+      <label htmlFor="character" className='text-black font-bold'>Special Character</label>
 
     </div>
     
